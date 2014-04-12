@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "gulp": "^3.6.0",
+    "gulp-inline-css": "^0.2.1",
+    "gulp-imagemin": "^0.2.0",
+    "gulp-notify": "^1.2.5"
+  }
+}
