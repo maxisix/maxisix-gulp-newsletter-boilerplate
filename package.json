@@ -1,9 +1,10 @@
 {
   "devDependencies": {
     "gulp": "^3.6.0",
-    "gulp-uncss": "^0.4.3",
-    "gulp-inline-css": "^0.2.5",
     "gulp-imagemin": "^0.2.0",
-    "gulp-notify": "^1.2.5"
+    "gulp-inline-css": "^2.0.0",
+    "gulp-install": "^0.2.0",
+    "gulp-notify": "^1.2.5",
+    "gulp-uncss": "^0.4.3"
   }
 }
